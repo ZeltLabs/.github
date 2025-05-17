@@ -4,5 +4,3 @@
 We care deeply about performance **and** usability.
 
 🔎 Learn more at [zeltlabs.com](https://zeltlabs.com)
-
-> We build what we need. Then we share it.
