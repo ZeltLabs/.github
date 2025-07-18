@@ -1,22 +1,13 @@
 # ZeltLabs
 
-**ZeltLabs** is an open-source innovation studio that develops software in focused, independent cycles.
+Tools backed by clear, documented engineering.
 
-Each product is built by a dedicated team and consists of two parts: a practical, open-source tool and a published research paper documenting the process from problem analysis to implementation.
+Each project includes a focused product and a white paper on its design and implementation.
 
----
+## Flagship Projects
+- [Kayf](https://github.com/ZeltLabs/kayf) – next-gen collaborative workspace  
+- [Vektor](https://github.com/ZeltLabs/vektor) – distributed enterprise search  
+- [HPW](https://github.com/ZeltLabs/hpw) – high-performance workflow engine
 
-## How We Work
-
-- One Zelt Account gives access to all products  
-- All software is open source, with optional pro features or paid support  
-- Each project is paired with a transparent research paper  
-- Teams are independent and product-specific  
-- Zelt always contributes resources and holds partial ownership of the product
-- Everything we do is open and documented
-
----
-
-**ZeltLabs builds tools for the world — open, practical, research-driven, and endlessly curious.**
-
-Got an idea? Hit us up at [zeltlabs.com/contact](https://zeltlabs.com/contact)
+## Get Involved
+Contribute, discuss, or pitch ideas at [zeltlabs.com/contact](https://zeltlabs.com/contact)
